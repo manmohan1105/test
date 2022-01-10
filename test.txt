@@ -1,1 +1,2 @@
 this is a readme file for testapp
+Test of pull command done
